@@ -53,7 +53,7 @@ project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/gojiepharai/X-DRAF.git
+git clone [https://github.com/gojiepharai/X-DRAF.git](https://github.com/gojiepharai/X-DRAF)
 cd x-draf
 ```
 
