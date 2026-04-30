@@ -53,8 +53,8 @@ project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/winfred56/dependency-risk-analyzer.git
-cd dependency-risk-analyzer
+git clone https://github.com/gojiepharai/X-DRAF.git
+cd x-draf
 ```
 
 (Optional) Create a virtual environment:
