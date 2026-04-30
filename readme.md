@@ -235,5 +235,5 @@ Contributions are welcome!
 ---
 
 👨‍💻 Author
-[Henry Adu-Agyeman II](https://www.linkedin.com/in/henry-adu-agyeman-jr-85070038/)
+[Henry Adu-Agyeman. Jr.](https://www.linkedin.com/in/henry-adu-agyeman-jr-85070038/)
 Built with ❤️ to better understand dependency risk in modern software systems.
