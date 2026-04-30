@@ -108,19 +108,17 @@ python main.py \
 
 ---
 
-### 🧪 Example
+🧪 Example
 
 ```bash
-python main.py \
-  --nvd data/nvdcve.json \
-  --owner django \
-  --name django \
-  --repo-path ~/projects/django
-```
+python main.py --nvd-json
+C:\Users\kathh\X-DRAF\nvdcve-2.0-modified.json
+--repo veracrypt/VeraCrypt --keywords VeraCrypt
+--use-cpe
 
 ---
 
-## 📊 Output
+📊 Output
 
 The tool produces:
 
@@ -138,7 +136,7 @@ The tool produces:
 
 ---
 
-## 🧠 Scoring Model
+🧠 Scoring Model
 
 Each dependency is evaluated across 4 pillars:
 
@@ -159,7 +157,7 @@ config.py
 
 ---
 
-## 🎨 Risk Tiers
+🎨 Risk Tiers
 
 
 | Score Range | Tier     |
@@ -172,7 +170,7 @@ config.py
 
 ---
 
-## 🛠 Customization
+🛠 Customization
 
 You can tweak scoring behavior in:
 
@@ -186,7 +184,7 @@ config.py
 
 ---
 
-## 📌 Notes
+📌 Notes
 
 - Git metrics require a **local clone** of the repository
 - CVE matching uses:
@@ -197,7 +195,7 @@ config.py
 
 ---
 
-## 🧾 License
+🧾 License
 
 MIT License
 
@@ -217,7 +215,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
 
 ---
 
-## 🤝 Contributing
+🤝 Contributing
 
 Contributions are welcome!
 
@@ -227,7 +225,7 @@ Contributions are welcome!
 
 ---
 
-## 💡 Future Improvements
+💡 Future Improvements
 
 - EPSS integration
 - KEV (Known Exploited Vulnerabilities) support
@@ -236,6 +234,6 @@ Contributions are welcome!
 
 ---
 
-## 👨‍💻 Author
-
+👨‍💻 Author
+[Henry Adu-Agyeman II](https://www.linkedin.com/in/henry-adu-agyeman-jr-85070038/)
 Built with ❤️ to better understand dependency risk in modern software systems.
