@@ -1,6 +1,6 @@
 # 📦 Repo Risk Analyzer
 
-A Python tool that analyzes software dependencies and calculates a **risk score (0–10)** based on FOUR main pillars such as:
+A Python tool that analyzes Open-Source Software (OSS) dependencies and calculates a **risk score (0–10)** based on FOUR main pillars such as:
 
 - Vulnerabilities (CVEs, CVSS, exploitability)
 - Maintainer health (activity, releases, bus factor)
