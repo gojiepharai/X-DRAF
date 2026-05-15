@@ -1,4 +1,4 @@
-# 📦 Repo Risk Analyzer
+# 📦 Cyber Risk Assessment Framework - (X-DRAF)
 
 A Python tool that analyzes Open-Source Software (OSS) dependencies and calculates a **risk score (0–10)** based on FOUR main pillars such as:
 
