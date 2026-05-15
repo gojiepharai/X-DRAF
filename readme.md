@@ -86,13 +86,13 @@ nvdcve-2.0-modified.json
 
 ### 2. Target Repository (optional but recommended)
 
-A local Git repository path for maintainer analysis:
+Clone the Git repository you want analyse for maintainer analysis locally onto your pc:
 
 ```
 /path/to/repo
-```
 
----
+
+
 
 ## ▶️ Usage
 
